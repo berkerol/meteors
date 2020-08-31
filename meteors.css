@@ -1,0 +1,8 @@
+* {
+  margin: 0;
+}
+
+canvas {
+  background: linear-gradient(#202020, #303030 80%, #404040);
+  display: block;
+}
